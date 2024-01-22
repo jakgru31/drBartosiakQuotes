@@ -6,7 +6,7 @@ A little script that draws one of 65 real and authentic quotes from Dr Bartosiak
 Language of website is a Polish, is responsive for mobile, tablet and desktop.
 
 # What's new? :question:
-File .js has been updated. I added 35 totally new quotes of Dr Bartosiak! 35 more reasons to check it out. Have fun!
+File scirpt.js has been updated. I added 35 totally new quotes of Dr Bartosiak! 35 more reasons to check it out. Have fun!
 
 # How it looks? 🖼️
 ![photo](https://i.imgur.com/kAKjxNN.png)
